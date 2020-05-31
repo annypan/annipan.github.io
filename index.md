@@ -12,7 +12,7 @@ Hi! My name is Anni Pan, and I'm now a (rising) sophomore studying Computer and 
 
 ### Fun Facts
 * I enjoy listening to Chopin while coding.
-* I taught myself Adobe Premiere and made a fancut for my favorite actor! Here's the link: [https://www.bilibili.com/video/BV1xK411s7me](url)
+* I taught myself Adobe Premiere and made a fancut for my favorite actor! Here's the link: [https://www.bilibili.com/video/BV1xK411s7me?from=search&seid=17706359169206564063](url)
 
 ### Markdown
 
