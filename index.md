@@ -4,7 +4,15 @@ Hi! My name is Anni Pan, and I'm now a (rising) sophomore studying Computer and 
 
 ## Bio
 
-My hometown is Nanjing, China. Chantilly, Virginia is my new home in the US.
+### Geography
+My hometown is Nanjing, China. 
+Chantilly, Virginia is my new home in the US.
+When the semester starts, I will be in Philadelphia, Pennsylvania. 
+My favorite city is Hangzhou, China.
+
+### Fun Facts
+I enjoy listening to Chopin while coding.
+I taught myself Adobe Premiere and made a fancut for my favorite actor! Here's the link: https://www.bilibili.com/video/BV1xK411s7me
 
 ### Markdown
 
