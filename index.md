@@ -8,16 +8,18 @@ Hi! My name is Anni Pan, and I'm now a (rising) sophomore studying Computer and 
 * My hometown is Nanjing, China.
 * My home in the US is Chantilly, Virginia.
 * When the semester starts, I will be in Philadelphia, Pennsylvania.
-* My favorite city is Hangzhou, China.
+* My favorite city is Hangzhou, China, where I want to buy a big house and live with my best friends.
 
 ### Fun Facts
 * I enjoy listening to Chopin while coding.
 * I taught myself Adobe Premiere and made a [fancut](https://www.bilibili.com/video/BV1xK411s7me?from=search&seid=17706359169206564063) for my favorite actor!
 * I'm lactose intolerant so I can't eat dairy products.
+* My Chinese and English name are literally the same.
 
 ### Hobbies
 * **sleeping**💤 
 * playing the guitar
+* singing
 * playing Animal Crossing (my SW code: 5497-4724-6884, welcome to my island!)
 * reading
 * writing random thoughts in my diary
