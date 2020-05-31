@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## A little about me
 
-You can use the [editor on GitHub](https://github.com/annypan/annipan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Anni Pan, and I'm now a (rising) sophomore studying Computer and Information Science and Mathematics at the University of Pennsylvania.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bio
+
+My hometown is Nanjing, China. Chantilly, Virginia is my new home in the US.
 
 ### Markdown
 
