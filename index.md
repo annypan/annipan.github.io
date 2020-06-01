@@ -26,3 +26,6 @@ Hi! My name is Anni Pan, and I'm now a (rising) sophomore studying Computer and 
 * watching my favorite actor, [Yilong Zhu](https://zh.wikipedia.org/wiki/%E6%9C%B1%E4%B8%80%E9%BE%99)
 * learning new things
 * **coding**💻
+
+## CV
+Here's the link to my [CV](https://drive.google.com/file/d/1VkJOhwfj5zFajCBW-hVY3ZAqGnll0Xf9/view?usp=sharing). Hopefully it will grow with me :)
