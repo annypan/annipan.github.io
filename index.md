@@ -31,5 +31,5 @@ Hi! My name is Anni Pan, and I'm now a (rising) sophomore studying Computer and 
 * **coding**💻
 
 ## CV
-Here's the link to my [CV](https://drive.google.com/file/d/1VkJOhwfj5zFajCBW-hVY3ZAqGnll0Xf9/view?usp=sharing). Hopefully it will grow with me :)
+Here's the link to my [CV](https://drive.google.com/file/d/12zMkByxWa4W5LijwpIpqYFhyCImHagTT/view?usp=sharing). Hopefully it will grow with me :)
 The projects mentioned in my CV can all be found in my GitHub page. The game "Fighting Bugs" is fun and feel free to download and play it!
